@@ -2,7 +2,7 @@
 Open google_forms_to_spss_statistics.sln in Visual Studio and build
 
 # How to use
-Start program
+Start program /n
 Put url-link to Google forms
 Put path to csv file with answers that you can download from Google form
 result.sav is SPSS Statistics file
